@@ -1,0 +1,20 @@
+{
+	"name": "react-parcel-wp-starter",
+	"version": "1.0.0",
+	"description": "A WordPress react starter",
+	"author": "Nadim <nadim0988@gmail.com>",
+	"license": "GPLv2",
+	"private": true,
+	"scripts": {
+		"dev": "NODE_ENV=development parcel ./assets/src/admin/admin.js --out-dir ./assets/js",
+		"build": "parcel build <your entry file>"
+	},
+	"dependencies": {
+		"babel-preset-env": "^1.7.0",
+		"babel-preset-react": "^6.24.1",
+		"components": "^0.1.0",
+		"react": "^16.9.0",
+		"react-dom": "^16.9.0",
+		"react-router-dom": "^5.0.1"
+	}
+}
