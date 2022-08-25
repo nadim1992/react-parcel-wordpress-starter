@@ -1,3 +1,9 @@
 # React Parcel WordPress Starter
 
-> `clone-edit` from [vue-wp-starter](https://github.com/tareq1988/vue-wp-starter)
+> A wordpress starter plugin, built with react and parcel.
+
+1. Install the plugin into wordpress.
+2. Run `yarn dev`
+
+You are good to go, look for `React App` menu in wordpress dashboard.
+

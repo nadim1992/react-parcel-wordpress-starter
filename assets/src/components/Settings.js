@@ -2,7 +2,7 @@ import React from 'react';
 
 function Settings() {
   return (
-    <div>I am from Settings.js</div>
+    <h1>I am from Settings.js</h1>
   );
 }
 

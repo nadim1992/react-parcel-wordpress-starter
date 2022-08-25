@@ -60,6 +60,7 @@ testem.log
 .Trashes
 ehthumbs.db
 Thumbs.db
+.parcel-cache
 
 # Logs and databases #
 ######################
